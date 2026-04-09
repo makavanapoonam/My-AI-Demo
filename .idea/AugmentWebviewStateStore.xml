@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AugmentWebviewStateStore">
+    <option name="stateMap">
+      <map>
+        <entry key="CHAT_STATE" value="[[&quot;currentConversationId&quot;,&quot;pins&quot;,&quot;agentExecutionMode&quot;,&quot;isPanelCollapsed&quot;,&quot;displayedAnnouncements&quot;,&quot;conversations&quot;,&quot;onboarding&quot;,&quot;a|0|1|2|3|4|5|6&quot;,&quot;__NEW_AGENT__&quot;,&quot;o|&quot;,&quot;manual&quot;,&quot;b|F&quot;,&quot;a|&quot;,&quot;a|8&quot;,&quot;id&quot;,&quot;createdAtIso&quot;,&quot;lastInteractedAtIso&quot;,&quot;selectedModelId&quot;,&quot;requestIds&quot;,&quot;isPinned&quot;,&quot;isShareable&quot;,&quot;extraData&quot;,&quot;toolUseStates&quot;,&quot;chatHistory&quot;,&quot;feedbackStates&quot;,&quot;draftExchange&quot;,&quot;a|E|F|G|H|I|J|K|L|M|N|O|P&quot;,&quot;2026-04-09T05:35:38.133Z&quot;,&quot;claude-sonnet-4-6&quot;,&quot;isAgentConversation&quot;,&quot;a|T&quot;,&quot;b|T&quot;,&quot;o|U|V&quot;,&quot;request_id&quot;,&quot;uuid&quot;,&quot;chatItemType&quot;,&quot;status&quot;,&quot;fromTimestamp&quot;,&quot;toTimestamp&quot;,&quot;a|X|Y|Z|a|b|c&quot;,&quot;a44a3726-737a-461c-b3ae-a65f2da595f8&quot;,&quot;79950e61-37f6-40ec-90cc-d940a69a9d79&quot;,&quot;agentic-checkpoint-delimiter&quot;,&quot;success&quot;,&quot;n|0&quot;,&quot;n|VGGkWaF&quot;,&quot;o|d|e|f|g|h|i|j&quot;,&quot;a|k&quot;,&quot;request_message&quot;,&quot;rich_text_json_repr&quot;,&quot;a|m|n|a&quot;,&quot;&quot;,&quot;type&quot;,&quot;content&quot;,&quot;a|q|r&quot;,&quot;doc&quot;,&quot;a|q&quot;,&quot;paragraph&quot;,&quot;o|u|v&quot;,&quot;a|w&quot;,&quot;o|s|t|x&quot;,&quot;draft&quot;,&quot;o|o|p|y|z&quot;,&quot;o|Q|8|R|R|S|C|B|B|W|9|l|9|10&quot;,&quot;o|D|11&quot;,&quot;shown&quot;,&quot;workspaceQuestions&quot;,&quot;a|13|14&quot;,&quot;o|15|B|C&quot;,&quot;o|7|8|9|A|B|C|12|16&quot;],&quot;17&quot;]" />
+      </map>
+    </option>
+  </component>
+</project>
