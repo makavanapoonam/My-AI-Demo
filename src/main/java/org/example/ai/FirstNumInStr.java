@@ -18,5 +18,6 @@ public class FirstNumInStr {
 
         // system data
         System.out.println();
+        System.out.println();
     }
 }
