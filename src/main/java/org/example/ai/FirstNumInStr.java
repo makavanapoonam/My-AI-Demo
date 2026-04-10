@@ -15,5 +15,8 @@ public class FirstNumInStr {
         List<String> filteredList = stringList.stream().filter(str -> Character.isDigit(str.charAt(0))).collect(Collectors.toList());
 
         System.out.println(filteredList);
+
+        // system data
+        System.out.println();
     }
 }
