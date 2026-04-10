@@ -6,7 +6,7 @@ public class TestAIDemo {
 
         String str = "SSpringg";
 
-        char[] charArr = str.toCharArray();
+        char[] charAr = str.toCharArray();
 
         for(int i=0; i< str.length(); i++){
             boolean flag = false;
